@@ -1,5 +1,3 @@
-[<img src="banner_github.png" alt="GitHub Banner" width="100%" />](https://www.youtube.com/@chamnandev)
-
 # Hello World!, I'm Chamnan, a Khmer Web Developer 👋🏼:
 🛜 currently working in [iGrowTech](https://www.igrowtech.biz)<br>👨🏼‍🎓 studying based computer science at [PSBU](https://www.psbu.cloud)<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel [Chamnan Dev](https://www.youtube.com/@chamnandev)
 
