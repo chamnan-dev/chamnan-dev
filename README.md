@@ -1,4 +1,4 @@
-# Hello World!, I'm Chamnan, a Khmer Web Developer 👋🏼:
+# Hello World!, I'm Chamnan, a Web Developer 👋🏼:
 🛜 currently working in [iGrowTech](https://www.igrowtech.biz)<br>👨🏼‍🎓 studying based computer science at [PSBU](https://www.psbu.cloud)<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel [Chamnan Dev](https://www.youtube.com/@chamnandev)
 
 
